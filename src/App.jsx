@@ -175,7 +175,7 @@ function App() {
                 About Me
               </h2>
               <p className="text-gray-400 text-lg mb-10 leading-relaxed">
-                I’m Pokpong, a full-stack developer passionate about building
+                I’m Alzheimer, a full-stack developer passionate about building
                 modern, high-performance applications that solve real-world
                 problems.
               </p>

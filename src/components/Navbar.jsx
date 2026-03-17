@@ -17,7 +17,7 @@ const Navbar = ({ hidden = false }) => {
       {/* Logo */}
       <div className="logo cursor-pointer z-50">
         <h1 className="text-2xl font-extrabold tracking-tight bg-gradient-to-r from-yellow-300 to-yellow-500 bg-clip-text text-transparent p-1">
-          Pokpong<span className="text-yellow-400">.</span>
+          Alzheimer<span className="text-yellow-400">.</span>
         </h1>
       </div>
 

@@ -33,7 +33,7 @@ const Footer = () => {
       <div className="w-full max-w-7xl px-6 flex flex-col md:flex-row items-center md:justify-between gap-8">
         {/* Logo/Title */}
         <h1 className="text-2xl font-bold order-1 md:order-none tracking-tight bg-gradient-to-r from-yellow-300 to-yellow-500 bg-clip-text text-transparent">
-          Pokpong<span className="text-yellow-400">.dev</span>
+          Alzheimer<span className="text-yellow-400">.dev</span>
         </h1>
 
         {/* Social Icons */}
@@ -69,7 +69,7 @@ const Footer = () => {
         </div>
       </div>
       <p className="mt-10 text-yellow-600/60 text-sm text-center w-full">
-        © {new Date().getFullYear()} Pokpong. All rights reserved. 💛
+        © {new Date().getFullYear()} Alzheimer. All rights reserved. 💛
       </p>
     </footer>
   );

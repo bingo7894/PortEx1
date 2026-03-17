@@ -108,15 +108,6 @@ function App() {
   const handleProjectClick = (project) => setSelectedProject(project);
   const handleCloseModal = () => setSelectedProject(null);
 
-  useEffect(() => {
-    const isReload =
-      performance.getEntriesByType("navigation")[0]?.type === "reload";
-    if (isReload) {
-      const baseUrl = window.location.origin + "/portofolio/";
-      window.location.replace(baseUrl);
-    }
-  }, []);
-
   return (
     <>
       {/* พื้นหลัง */}
